@@ -26,5 +26,5 @@ To recommend games based on a game given by the user. Show rating, cover art, cu
   7. Ask for a new recommendation for the same user game.
   8. If 'no' then start again or quit.
 
-  * website used fro scraping game data: https://www.backloggd.com/
+  * website used for scraping game data: https://www.backloggd.com/
     
